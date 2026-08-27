@@ -4,13 +4,13 @@ translate spanish strings:
 
     # game/phone/overlay/status_bar.rpy:51
     old "LTE"
-    new ""
+    new "LTE"
 
     # game/phone/overlay/status_bar.rpy:200
     old "Screen\nMirroring"
-    new ""
+    new "Compartiendo\nPantalla"
 
     # game/phone/overlay/status_bar.rpy:219
     old "Music"
-    new ""
+    new "Música"
 
