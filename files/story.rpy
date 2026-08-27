@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-26 21:13
+﻿
 
 # game/story.rpy:15
 translate spanish story_b6e30ed3:

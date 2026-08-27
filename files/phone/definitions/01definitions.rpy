@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-26 21:13
+﻿
 
 # game/phone/definitions/01definitions.rpy:61
 translate spanish phone_call_test_747fe819:

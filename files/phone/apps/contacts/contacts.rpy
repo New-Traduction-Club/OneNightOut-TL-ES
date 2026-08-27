@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-26 21:13
+﻿
 
 translate spanish strings:
 
