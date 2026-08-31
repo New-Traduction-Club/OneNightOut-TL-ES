@@ -922,589 +922,589 @@ translate spanish story_bb89a975:
 translate spanish story_959483db:
 
     # "Monika doesn't seem to hear my remark, and has a visible face of concern."
-    ""
+    "Monika no parece escuchar mi comentario y su rostro muestra una clara preocupación."
 
 # game/story.rpy:370
 translate spanish story_e6930afd:
 
     # m "[player], are you okay?"
-    m ""
+    m "[player], ¿estás bien?"
 
 # game/story.rpy:372
 translate spanish story_9c5c660f:
 
     # "I don't even get a chance to catch up with myself, and just say the first thing that comes to mind."
-    ""
+    "Ni siquiera tengo tiempo para recomponerme y suelto lo primero que se me pasa por la cabeza."
 
 # game/story.rpy:373
 translate spanish story_3308678a:
 
     # mc "I{w=0.5}-I'm fine!"
-    mc ""
+    mc "¡E{w=0.5}-Estoy bien!"
 
 # game/story.rpy:375
 translate spanish story_59ff39c9:
 
     # "Monika's now puzzled face chooses to believe me, and gives me two pats on the shoulder."
-    ""
+    "El rostro ahora desconcertado de Monika decide creerme, y me da un par de palmaditas en el hombro."
 
 # game/story.rpy:380
 translate spanish story_d1232199:
 
     # m "If you say so."
-    m ""
+    m "Si tú lo dices..."
 
 # game/story.rpy:381
 translate spanish story_0e5feedc:
 
     # m "Come, I already reserved a table outside for us!"
-    m ""
+    m "¡Vamos, ya he reservado una mesa fuera para nosotros!"
 
 # game/story.rpy:383
 translate spanish story_ea19ac40:
 
     # "She points in the direction of the cafe at the corner of the street."
-    ""
+    "Señala en dirección a la cafetería que hay en la esquina de la calle."
 
 # game/story.rpy:384
 translate spanish story_a49ed4f8:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/story.rpy:398
 translate spanish story_610da2b1:
 
     # m "Just over here!"
-    m ""
+    m "¡Por aquí!"
 
 # game/story.rpy:400
 translate spanish story_3ef82b4a:
 
     # "She brings me over to the table she reserved, and we both have a seat."
-    ""
+    "Me lleva hasta la mesa y ambos nos sentamos."
 
 # game/story.rpy:405
 translate spanish story_9ec4261e:
 
     # "After we both order our drinks, we just sit in awkward silence. I decided to stare at the menu for a bit while I think about what to say next."
-    ""
+    "Después de pedir las bebidas, nos quedamos en un silencio un tanto incómodo. Decido mirar la carta un rato mientras pienso qué decir a continuación."
 
 # game/story.rpy:407
 translate spanish story_6c12b8cc:
 
     # mm "So-{w=1.0}{nw}"
-    mm ""
+    mm "Pues...{w=1.0}{nw}"
 
 # game/story.rpy:409
 translate spanish story_fc821731:
 
     # mc "Sorry, you can go first."
-    mc ""
+    mc "Perdona, tú primero."
 
 # game/story.rpy:411
 translate spanish story_ece569d1:
 
     # "We both give a small laugh."
-    ""
+    "Ambos soltamos una risita."
 
 # game/story.rpy:413
 translate spanish story_c8f0f30c:
 
     # m "What have you been up to?"
-    m ""
+    m "¿Qué ha sido de ti?"
 
 # game/story.rpy:415
 translate spanish story_afa23f30:
 
     # "A part of me worries about what Monika thinks of me, so I decided to exaggerate my life a little bit."
-    ""
+    "En parte me preocupa lo que Monika pueda pensar de mí, así que decido exagerar un poquito mi vida."
 
 # game/story.rpy:416
 translate spanish story_80f59a25:
 
     # mc "Well you know, I've been working a really nice job."
-    mc ""
+    mc "Pues ya sabes, tengo un trabajo bastante bueno."
 
 # game/story.rpy:418
 translate spanish story_bc02f9e8:
 
     # mc "There's plenty of advancements for me and I'm being paid well... I decided college wasn't for me."
-    mc ""
+    mc "Tengo bastantes posibilidades de ascender y me pagan bien... Al final decidí que la universidad no era para mí."
 
 # game/story.rpy:420
 translate spanish story_64c6517a:
 
     # m "Wow! That's amazing. I wish I could find one."
-    m ""
+    m "¡Hala! Qué maravilla. Ojalá yo pudiera encontrar uno así."
 
 # game/story.rpy:422
 translate spanish story_5124225a:
 
     # "Hold on- why is she worried about getting a job? She never seemed to have money issues..."
-    ""
+    "Un momento... ¿Por qué le preocupa buscar trabajo? Nunca pareció tener problemas de dinero..."
 
 # game/story.rpy:423
 translate spanish story_22c61997:
 
     # "I quickly clear out the questions in my head so I can focus on the conversation."
-    ""
+    "Rápidamente aparto esas dudas de mi cabeza para poder centrarme en la conversación."
 
 # game/story.rpy:424
 translate spanish story_175e7c7f:
 
     # mc "So, how is college?"
-    mc ""
+    mc "Y bien, ¿qué tal la universidad?"
 
 # game/story.rpy:426
 translate spanish story_ec36a628:
 
     # m "It's been going great. I've been able to keep my grades in steady order and I've made a lot of friends..."
-    m ""
+    m "Me ha ido genial. He conseguido mantener buenas notas y he hecho un montón de amigos..."
 
 # game/story.rpy:428
 translate spanish story_7876ed5b:
 
     # "My confidence droops. She is as perfect as she was in high school."
-    ""
+    "Mi confianza se desmorona. Sigue siendo tan perfecta como en el instituto."
 
 # game/story.rpy:430
 translate spanish story_f1ca6605:
 
     # m "...But I've been struggling to pay tuition."
-    m ""
+    m "Pero me está costando mucho pagar la matrícula."
 
 # game/story.rpy:432
 translate spanish story_68cb1614:
 
     # "Hold on? Really?"
-    ""
+    "Un momento. ¿En serio?"
 
 # game/story.rpy:433
 translate spanish story_d32237fc:
 
     # "Failing to hide my disbelief, Monika quickly picks up on it."
-    ""
+    "Al no poder ocultar mi incredulidad, Monika se da cuenta enseguida."
 
 # game/story.rpy:435
 translate spanish story_c415a345:
 
     # m "Yeah, I know how it looks."
-    m ""
+    m "Sí, sé lo que parece."
 
 # game/story.rpy:436
 translate spanish story_9cfeb4cf:
 
     # m "It's just that... my 'whoever wears the pants in the family' got laid off. My parents still want me to go to college, so I've always wanted to try my best to support them."
-    m ""
+    m "Es solo que... despidieron a quien 'lleva el pan a la mesa' en mi familia. Mis padres siguen queriendo que vaya a la universidad, así que he intentado hacer todo lo posible para ayudarles."
 
 # game/story.rpy:438
 translate spanish story_e7a892e5:
 
     # "Despite the bustling sounds of the cafe, a small veil of silence formed between us."
-    ""
+    "A pesar del bullicio de la cafetería, se forma un pequeño manto de silencio entre nosotros."
 
 # game/story.rpy:439
 translate spanish story_61562e44:
 
     # wi "Here's your drink sir."
-    wi ""
+    wi "Aquí tiene su bebida, señor."
 
 # game/story.rpy:441
 translate spanish story_b6294ac6:
 
     # "I thank the waiter."
-    ""
+    "Le doy las gracias al camarero."
 
 # game/story.rpy:443
 translate spanish story_4cf0726b:
 
     # m "Sorry, I've probably made this a bit awkward for you."
-    m ""
+    m "Perdona, seguramente he hecho que esto sea un poco incómodo para ti."
 
 # game/story.rpy:445
 translate spanish story_427e0b05:
 
     # mc "No, it's fine. Honestly, I'm just happy to be here anyways."
-    mc ""
+    mc "Qué va, no pasa nada. Sinceramente, me alegro mucho de estar aquí."
 
 # game/story.rpy:446
 translate spanish story_60cb4e97:
 
     # "We continue to talk more about our lives."
-    ""
+    "Seguimos hablando un rato más sobre nuestras vidas."
 
 # game/story.rpy:448
 translate spanish story_b7369571:
 
     # "She talks about a new literature club she's been asking the student government to start."
-    ""
+    "Me cuenta que le ha estado pidiendo al consejo estudiantil fundar un nuevo club de literatura."
 
 # game/story.rpy:450
 translate spanish story_89be15a5:
 
     # "I started to talk about my job."
-    ""
+    "Yo me pongo a hablar sobre mi trabajo,"
 
 # game/story.rpy:452
 translate spanish story_a6922049:
 
     # "...even though there isn't much to say about my job."
-    ""
+    "aunque tampoco es que haya mucho que decir sobre él."
 
 # game/story.rpy:454
 translate spanish story_771838c7:
 
     # "Before I knew it, the time quickly passed."
-    ""
+    "Antes de darme cuenta, el tiempo se nos pasa volando."
 
 # game/story.rpy:456
 translate spanish story_2407d9df:
 
     # wi "Apologies, we are closing for the night."
-    wi ""
+    wi "Disculpen, vamos a cerrar."
 
 # game/story.rpy:457
 translate spanish story_f322e9b1:
 
     # "I check the time. It was 30 minutes away from midnight and that meant one thing..."
-    ""
+    "Miro la hora. Faltan treinta minutos para la medianoche y eso solo significa una cosa..."
 
 # game/story.rpy:458
 translate spanish story_346b0ff6:
 
     # mc "The last train is about to leave, Monika!"
-    mc ""
+    mc "¡El último tren está a punto de salir, Monika!"
 
 # game/story.rpy:460
 translate spanish story_1019f727:
 
     # m "Oh dear, you're right!"
-    m ""
+    m "¡Ay, tienes razón!"
 
 # game/story.rpy:463
 translate spanish story_3244a06c:
 
     # mc "I'll pay for it, don't worry about it."
-    mc ""
+    mc "Yo pago esto, no te preocupes."
 
 # game/story.rpy:465
 translate spanish story_bd6de0cf:
 
     # m "It's fine, I can pay for it."
-    m ""
+    m "Tranquilo, puedo pagarlo yo."
 
 # game/story.rpy:467
 translate spanish story_04636b15:
 
     # mc "It's fine, you need the money more than I do."
-    mc ""
+    mc "Insisto, tú necesitas el dinero más que yo."
 
 # game/story.rpy:469
 translate spanish story_19dd06b9:
 
     # "Monika gave me the same hearty smile she gave me before we became separated at high school."
-    ""
+    "Monika me dedica la misma sonrisa sincera que me daba antes de separarnos en el instituto."
 
 # game/story.rpy:473
 translate spanish story_4584592d:
 
     # m "Thanks, [player]."
-    m ""
+    m "Gracias, [player]."
 
 # game/story.rpy:485
 translate spanish story_76116043:
 
     # "We both ran to the train station, hoping to catch the train in time."
-    ""
+    "Ambos echamos a correr hacia la estación con la esperanza de llegar a tiempo al tren."
 
 # game/story.rpy:522
 translate spanish story_d4b89784:
 
     # m "This is taking forever."
-    m ""
+    m "Se me está haciendo eterno."
 
 # game/story.rpy:524
 translate spanish story_aa9233c3:
 
     # mc "Yeah, it really is."
-    mc ""
+    mc "Ya, la verdad es que sí."
 
 # game/story.rpy:537
 translate spanish story_723e3d9f:
 
     # m "Finally!"
-    m ""
+    m "¡Por fin!"
 
 # game/story.rpy:539
 translate spanish story_55c83f9a:
 
     # mc "I see the train! I think we can make it in time!"
-    mc ""
+    mc "¡Ya veo el tren! ¡Creo que llegamos a tiempo!"
 
 # game/story.rpy:541
 translate spanish story_dc10d1a9:
 
     # m "I hope so, it's going to be a long walk back otherwise!"
-    m ""
+    m "¡Eso espero, porque si no nos espera una buena caminata de vuelta!"
 
 # game/story.rpy:554
 translate spanish story_980c51bc:
 
     # "We run up to the platform, only to see the doors of the train closing."
-    ""
+    "Corremos hasta el andén, pero solo para ver cómo se cierran las puertas del tren."
 
 # game/story.rpy:555
 translate spanish story_8b7924c7:
 
     # "We both watched as the train left, taking our chances of making it home at a reasonable time."
-    ""
+    "Los dos nos quedamos mirando cómo se marcha el tren y, con él, nuestras posibilidades de llegar a casa a una hora decente."
 
 # game/story.rpy:557
 translate spanish story_d399ab21:
 
     # "Despite being out of breath on a cold midnight, we could do nothing but smile at each other."
-    ""
+    "A pesar de estar sin aliento en una gélida medianoche, lo único que podemos hacer es sonreírnos."
 
 # game/story.rpy:559
 translate spanish story_07bc4d2a:
 
     # m "Shall we walk home, [player]?"
-    m ""
+    m "¿Volvemos caminando, [player]?"
 
 # game/story.rpy:561
 translate spanish story_1bf60051:
 
     # mc "Of course."
-    mc ""
+    mc "Claro."
 
 # game/story.rpy:573
 translate spanish story_aa11bf1d:
 
     # "The cold silence of the city night was oddly comforting as we walked back home."
-    ""
+    "El frío silencio de la noche en la ciudad resulta extrañamente reconfortante mientras caminamos de vuelta a casa."
 
 # game/story.rpy:574
 translate spanish story_b2ab5e4b:
 
     # "However, all I can feel is a sense of guilt... I feel like it's my fault that Monika missed the train."
-    ""
+    "Sin embargo, lo único que siento es culpa... Creo que es por mi culpa que Monika haya perdido el tren."
 
 # game/story.rpy:575
 translate spanish story_d8982185:
 
     # "I keep my head down whilst walking down the sidewalks, avoiding eye contact."
-    ""
+    "Mantengo la cabeza gacha mientras recorro las aceras, evitando el contacto visual."
 
 # game/story.rpy:576
 translate spanish story_bc4aa182:
 
     # "Then suddenly...{w=0.5}{nw}"
-    ""
+    "Entonces, de repente...{w=0.5}{nw}"
 
 # game/story.rpy:578
 translate spanish story_34138a72:
 
     # m "Are you okay?"
-    m ""
+    m "¿Estás bien?"
 
 # game/story.rpy:580
 translate spanish story_f7f8f98e:
 
     # "I look up at Monika, who looks visibly concerned."
-    ""
+    "Levanto la mirada hacia Monika, que parece visiblemente preocupada."
 
 # game/story.rpy:581
 translate spanish story_84157902:
 
     # mc "Oh! It's just..."
-    mc ""
+    mc "¡Ah! Es solo que..."
 
 # game/story.rpy:582
 translate spanish story_b6fff990:
 
     # mc "I just feel like it's my fault you missed your train..."
-    mc ""
+    mc "Siento que es por mi culpa que hayas perdido el tren..."
 
 # game/story.rpy:586
 translate spanish story_020fc8b7:
 
     # "Monika takes a second to think about the thing I just said."
-    ""
+    "Monika se toma un segundo para asimilar lo que le acabo de decir."
 
 # game/story.rpy:588
 translate spanish story_d80f36fb:
 
     # "Then lets out a lighthearted laugh."
-    ""
+    "Y, acto seguido, suelta una risa despreocupada."
 
 # game/story.rpy:590
 translate spanish story_30727938:
 
     # m "Ahaha!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/story.rpy:595
 translate spanish story_7e0eaf5a:
 
     # "She puts her hand on my shoulder again."
-    ""
+    "Vuelve a ponerme la mano en el hombro."
 
 # game/story.rpy:597
 translate spanish story_4ace210b:
 
     # m "You shouldn't feel bad, I enjoyed my time with you!"
-    m ""
+    m "No tendrías que sentirte mal, ¡he disfrutado mucho pasando el rato contigo!"
 
 # game/story.rpy:598
 translate spanish story_399a0443:
 
     # m "My classes aren't until late tomorrow, it isn't the end of the world."
-    m ""
+    m "Mañana no tengo clases hasta tarde, así que no es el fin del mundo."
 
 # game/story.rpy:600
 translate spanish story_2d890eff:
 
     # "All of my feelings of guilt wash away as I look at her face again."
-    ""
+    "Todos mis sentimientos de culpa se esfuman en cuanto vuelvo a mirarle a la cara."
 
 # game/story.rpy:601
 translate spanish story_dc997426:
 
     # "She really is the best."
-    ""
+    "La verdad es que es la mejor."
 
 # game/story.rpy:602
 translate spanish story_85d475fe_1:
 
     # mc "Of course!"
-    mc ""
+    mc "¡Claro!"
 
 # game/story.rpy:604
 translate spanish story_4c6995ed:
 
     # "We continue our walk through the nighttime city, passing by closed business with hardly a person in sight."
-    ""
+    "Continuamos nuestro paseo por la ciudad nocturna, pasando por negocios cerrados sin apenas un alma a la vista."
 
 # game/story.rpy:605
 translate spanish story_1460af36:
 
     # "However, when we reach the next block..."
-    ""
+    "Sin embargo, al llegar a la siguiente manzana..."
 
 # game/story.rpy:614
 translate spanish story_a4fcb7ef:
 
     # mc "Oh!"
-    mc ""
+    mc "¡Ah!"
 
 # game/story.rpy:615
 translate spanish story_3cf8ac8c:
 
     # "We both see off to our right a business is still open, and at this hour."
-    ""
+    "Ambos nos fijamos en que, a nuestra derecha, hay un negocio que sigue abierto a estas horas."
 
 # game/story.rpy:617
 translate spanish story_e10f05af:
 
     # m "The Izakaya from yesterday is still open?"
-    m ""
+    m "¿La izakaya de ayer todavía sigue abierta?"
 
 # game/story.rpy:619
 translate spanish story_70c47846:
 
     # mc "I guess, they usually stay open late into the night."
-    mc ""
+    mc "Supongo, suelen quedarse abiertos hasta muy tarde."
 
 # game/story.rpy:620
 translate spanish story_38cf5cdb:
 
     # "We could walk past it, or..."
-    ""
+    "Podríamos pasar de largo, o..."
 
 # game/story.rpy:621
 translate spanish story_39b909ed:
 
     # mc "Say Monika, do you think you could spare a bit more time?"
-    mc ""
+    mc "Oye, Monika, ¿crees que podrías quedarte un poco más?"
 
 # game/story.rpy:623
 translate spanish story_68a74032:
 
     # m "Uh..."
-    m ""
+    m "Mmm..."
 
 # game/story.rpy:625
 translate spanish story_4b53274f:
 
     # "Monika checks her phone to see the time, and responds with a resounding."
-    ""
+    "Monika mira la hora en su móvil y responde con un rotundo..."
 
 # game/story.rpy:627
 translate spanish story_e0795bc7:
 
     # m "I do!"
-    m ""
+    m "¡Sí, venga!"
 
 # game/story.rpy:629
 translate spanish story_49d1a377:
 
     # mc "Do you wanna hang out at the Izakaya for a bit? We didn't have much of a chance last night..."
-    mc ""
+    mc "¿Te apetece que pasemos un rato en la Izakaya? Anoche no tuvimos mucha oportunidad de hacerlo..."
 
 # game/story.rpy:631
 translate spanish story_c14a88a5:
 
     # m "I don't see why not, it seems a little fitting."
-    m ""
+    m "No veo por qué no, me parece de lo más apropiado."
 
 # game/story.rpy:633
 translate spanish story_24ba2a77:
 
     # "My heart is racing hearing her agree to my little idea."
-    ""
+    "El corazón me va a mil al oír cómo acepta mi pequeña sugerencia."
 
 # game/story.rpy:635
 translate spanish story_3faa4641:
 
     # m "Then... after you."
-    m ""
+    m "Pues... Adelante."
 
 # game/story.rpy:637
 translate spanish story_8d8bdfd3:
 
     # "I hold my arm out as if I'm guiding her into the Izakaya."
-    ""
+    "Extiendo el brazo como si la invitara a entrar."
 
 # game/story.rpy:639
 translate spanish story_1046a877:
 
     # "She laughs a little before going in, followed by me."
-    ""
+    "Suelta una pequeña risa antes de entrar, y yo la sigo."
 
 # game/story.rpy:650
 translate spanish story_613d90f0:
 
     # "We both entered the Izakaya, which was still brimming with life despite being this late."
-    ""
+    "Ambos entramos, el local sigue rebosando de vida a pesar de lo tarde que es."
 
 # game/story.rpy:651
 translate spanish story_9a5d387c:
 
     # "We both took a seat and we started to ponder on our orders."
-    ""
+    "Nos sentamos y empezamos a pensar en lo que vamos a pedir."
 
 # game/story.rpy:652
 translate spanish story_3728caaa:
 
     # mc "Do you drink, Monika?"
-    mc ""
+    mc "¿Tú bebes, Monika?"
 
 # game/story.rpy:654
 translate spanish story_9c786b25:
 
     # m "No, not really, I don't really have time to go out with friends to places like these."
-    m ""
+    m "Sinceramente, no. Pasa que no tengo mucho tiempo para salir con mis amigos a sitios como este."
 
 # game/story.rpy:656
 translate spanish story_eeb78383:
