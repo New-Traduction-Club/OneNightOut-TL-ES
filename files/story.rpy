@@ -1186,19 +1186,19 @@ translate spanish story_1019f727:
 translate spanish story_3244a06c:
 
     # mc "I'll pay for it, don't worry about it."
-    mc "Yo pago esto, no te preocupes."
+    mc "Pagaré esto, no te preocupes."
 
 # game/story.rpy:465
 translate spanish story_bd6de0cf:
 
     # m "It's fine, I can pay for it."
-    m "Tranquilo, puedo pagarlo yo."
+    m "Tranqui, puedo pagarlo."
 
 # game/story.rpy:467
 translate spanish story_04636b15:
 
     # mc "It's fine, you need the money more than I do."
-    mc "Insisto, tú necesitas el dinero más que yo."
+    mc "Insisto, necesitas el dinero más que yo."
 
 # game/story.rpy:469
 translate spanish story_19dd06b9:
