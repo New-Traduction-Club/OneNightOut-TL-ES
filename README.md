@@ -6,7 +6,7 @@ Proyecto de traducción al español para el mod One Night Out.
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
-**383 de 595 líneas traducidas**
+**399 de 595 líneas traducidas**
 
-**Progreso:** 64.37%
+**Progreso:** 67.06%
 <!-- PROGRESO_TRADUCCION_END -->
