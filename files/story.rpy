@@ -1510,97 +1510,97 @@ translate spanish story_9c786b25:
 translate spanish story_eeb78383:
 
     # mc "Well, right now is a great opportunity."
-    mc ""
+    mc "Bueno, pues ahora tienes una oportunidad perfecta."
 
 # game/story.rpy:658
 translate spanish story_21eb7dd4:
 
     # "We both laugh."
-    ""
+    "Ambos nos reímos."
 
 # game/story.rpy:660
 translate spanish story_dd8f5430:
 
     # m "Alright, maybe a margarita couldn't hurt."
-    m ""
+    m "Vale, supongo que un margarita no hará daño a nadie."
 
 # game/story.rpy:662
 translate spanish story_8791e77f:
 
     # "Monika ended up drinking at least three margaritas that night."
-    ""
+    "Al final Monika acabó bebiéndose al menos unas tres de esas margaritas."
 
 # game/story.rpy:668
 translate spanish story_8505011d:
 
     # "As we were both drinking the night away, I felt the urge to tell her the question that I've been meaning to ask her all these years."
-    ""
+    "Mientras pasábamos la noche bebiendo, sentí la necesidad de hacerle la pregunta que llevaba todos estos años queriendo hacerle."
 
 # game/story.rpy:669
 translate spanish story_42c45981:
 
     # mc "Monika. I have something to confess to you."
-    mc ""
+    mc "Monika, tengo algo que confesarte."
 
 # game/story.rpy:671
 translate spanish story_a810d3f5:
 
     # m "Yeah?"
-    m ""
+    m "¿Sí?"
 
 # game/story.rpy:673
 translate spanish story_d1732530:
 
     # mc "Well you see... uh... I-{w=0.5}I lied about my job."
-    mc ""
+    mc "Bueno, verás... eh... Y-{w=0.5}Yo te he mentido sobre mi trabajo."
 
 # game/story.rpy:674
 translate spanish story_f0e2115c:
 
     # mc "I told you it was a well paying job with advancements, but that was a lie."
-    mc ""
+    mc "Te dije que era un buen trabajo con posibilidades de ascenso, pero era mentira."
 
 # game/story.rpy:675
 translate spanish story_558077d0:
 
     # mc "I just didn't want to seem, well you know, like a failure-{w=0.5}{nw}"
-    mc ""
+    mc "Es que no quería parecer, ya sabes, un fracasado...{w=0.5}{nw}"
 
 # game/story.rpy:677
 translate spanish story_a3c70c38:
 
     # m "You're not a failure, [player]. I think you're a kind-hearted person. I can see that."
-    m ""
+    m "No eres ningún fracasado, [player]. Creo que tienes buen corazón. Salta a la vista."
 
 # game/story.rpy:679
 translate spanish story_964883de:
 
     # "I look down a bit, still feeling a bit guilty about lying."
-    ""
+    "Bajo un poco la mirada, sintiéndome aún un tanto culpable por haber mentido."
 
 # game/story.rpy:681
 translate spanish story_cda95e3d:
 
     # m "[player], think about the last time you've brightened up someone's life."
-    m ""
+    m "[player], piensa en la última vez que le alegraste la vida a alguien."
 
 # game/story.rpy:683
 translate spanish story_10f2b1d5:
 
     # mc "I think you're thinking a bit too highly of me..."
-    mc ""
+    mc "Creo que me tienes en demasiada estima..."
 
 # game/story.rpy:684
 translate spanish story_06dd914d:
 
     # mc "Well, there was one time. Right in this place actually."
-    mc ""
+    mc "Venga, hubo una vez. Justamente en este lugar."
 
 # game/story.rpy:685
 translate spanish story_a0f26c28:
 
     # mc "It was the day before I started my first job. Before I started to worry about money. I had my friends."
-    mc ""
+    mc "Fue el día antes de empezar en mi primer trabajo, antes de que empezara a preocuparme por el dinero... Tenía a mis amigos."
 
 # game/story.rpy:686
 translate spanish story_cbb84cb0:
