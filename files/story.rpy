@@ -1522,7 +1522,7 @@ translate spanish story_21eb7dd4:
 translate spanish story_dd8f5430:
 
     # m "Alright, maybe a margarita couldn't hurt."
-    m "Vale, supongo que un margarita no hará daño a nadie."
+    m "Vale, supongo que una margarita no hará daño a nadie."
 
 # game/story.rpy:662
 translate spanish story_8791e77f:
