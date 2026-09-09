@@ -1606,435 +1606,435 @@ translate spanish story_a0f26c28:
 translate spanish story_cbb84cb0:
 
     # mc "But right before, my friends were on the verge of an argument. Some petty argument over a girl. So I tried my hardest to get them to make amends."
-    mc ""
+    mc "Pero justo antes, mis amigos estaban a punto de pelearse. Una discusión absurda por una chica. Así que me esforcé al máximo para que hicieran las paces."
 
 # game/story.rpy:687
 translate spanish story_24d83240:
 
     # mc "So I invited them to the Izakaya. The atmosphere was tense at first... but slowly, we started to enjoy ourselves and it slowly became like old times."
-    mc ""
+    mc "Así que los invité al Izakaya. El ambiente era un poco tenso al principio, pero poco a poco empezamos a pasarlo bien y volvió a ser como en los viejos tiempos."
 
 # game/story.rpy:688
 translate spanish story_1d8e677f:
 
     # mc "...Things did become sour again at the end, but at least we had this one last time to hang out."
-    mc ""
+    mc "Las cosas volvieron a torcerse al final, pero al menos tuvimos esa última oportunidad de salir juntos."
 
 # game/story.rpy:690
 translate spanish story_31c383ba:
 
     # "As I look up, I see Monika is trying her hardest to pay attention, but the alcohol has already taken a toll on her."
-    ""
+    "Al levantar la vista, veo que Monika hace todo lo posible por prestar atención, pero la bebida ya ha hecho mella en ella."
 
 # game/story.rpy:692
 translate spanish story_71227e2f:
 
     # m "I'm really glad for you, [player]. I really am."
-    m ""
+    m "Me alegro mucho por ti, [player]. De verdad."
 
 # game/story.rpy:694
 translate spanish story_a130909b:
 
     # mc "I think it's time to go home."
-    mc ""
+    mc "Creo que va siendo hora de irse a casa."
 
 # game/story.rpy:696
 translate spanish story_fc4a9a88:
 
     # m "Yeah, [player], let's go home."
-    m ""
+    m "Sí, [player], vámonos a casa."
 
 # game/story.rpy:698
 translate spanish story_b832dc10:
 
     # "We pay the bill and we leave."
-    ""
+    "Pagamos la cuenta y nos marchamos."
 
 # game/story.rpy:708
 translate spanish story_9a656fa6:
 
     # "We both file into the street, watching each other after that little drinking session."
-    ""
+    "Salimos a la calle y nos miramos el uno al otro tras haber estado bebiendo un buen rato."
 
 # game/story.rpy:710
 translate spanish story_694c30a5:
 
     # m "{cps=20}You know [player]..."
-    m ""
+    m "{cps=20}¿Sabes, [player]...?"
 
 # game/story.rpy:711
 translate spanish story_c28850fb:
 
     # m "This has been {cps=15}grrrrrrrrreeeeeeaaaaaat-{/cps}"
-    m ""
+    m "Esto ha sido {cps=15}geniaaal...{/cps}"
 
 # game/story.rpy:713
 translate spanish story_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Ni que lo digas.."
 
 # game/story.rpy:715
 translate spanish story_1f14bf2f:
 
     # "Monika wraps her arm around my head, trying to keep her balance."
-    ""
+    "Monika me pasa el brazo por detrás del cuello, intentando mantener el equilibrio."
 
 # game/story.rpy:716
 translate spanish story_1dbe3594:
 
     # mc "You know... I think we both had just a {cps=15}liiiiitle{/cps} too much."
-    mc ""
+    mc "Peeero... Creo que los dos hemos bebido un {cps=15}poquitiiito{/cps} de más."
 
 # game/story.rpy:718
 translate spanish story_46454de8:
 
     # m "I don't think so..."
-    m ""
+    m "Yo creo que no..."
 
 # game/story.rpy:720
 translate spanish story_c3528e42:
 
     # "As she says that, she trips over herself, but I manage to catch her in time."
-    ""
+    "Justo al decir eso, se tropieza consigo misma, pero consigo atraparla a tiempo."
 
 # game/story.rpy:722
 translate spanish story_d4cd93fd:
 
     # mc "See?"
-    mc ""
+    mc "¿Ves?"
 
 # game/story.rpy:724
 translate spanish story_1c8ec401:
 
     # m "Okayyyy- Maybe you're right."
-    m ""
+    m "Vaaale... Puede que tengas razón."
 
 # game/story.rpy:726
 translate spanish story_4beba7ad:
 
     # "This precarious situation... I have my arms holding her steady and she's giving me this look of thanks..."
-    ""
+    "Menuda situación más precaria... La sostengo con mis brazos para que no se caiga y ella me dedica una mirada de agradecimiento..."
 
 # game/story.rpy:727
 translate spanish story_5d95360a:
 
     # "I think I can do it."
-    ""
+    "Creo que puedo hacerlo."
 
 # game/story.rpy:728
 translate spanish story_8c05a581:
 
     # "I don't think I'll be handed a chance like this again."
-    ""
+    "Dudo que vuelva a presentarse una oportunidad como esta."
 
 # game/story.rpy:729
 translate spanish story_be279cb4:
 
     # mc "Say, Monika..."
-    mc ""
+    mc "Oye, Monika..."
 
 # game/story.rpy:731
 translate spanish story_4fd6d088:
 
     # m "Hmmmmmmm~?"
-    m ""
+    m "¿Mmm?"
 
 # game/story.rpy:733
 translate spanish story_52b1964e:
 
     # mc "I've... always wanted to tell you this since we went to school together-"
-    mc ""
+    mc "Llevo... queriendo decirte esto desde que íbamos juntos al instituto."
 
 # game/story.rpy:735
 translate spanish story_d9d2ff28:
 
     # mc "I just really haven't had the chance to since... Well, we didn't get to see each other that much."
-    mc ""
+    mc "Es que no he tenido ocasión de hacerlo porque... Bueno, no nos veíamos mucho."
 
 # game/story.rpy:736
 translate spanish story_cbe55b2d:
 
     # mc "I{w=0.5}-I really, really like you."
-    mc ""
+    mc "M{w=0.5}-Me gustas muchísimo."
 
 # game/story.rpy:738
 translate spanish story_8aa0b890:
 
     # "Monika jumps back from my grace, letting out a little gasp. She looks away, visibly flustered."
-    ""
+    "Monika se zafa de mis brazos y da un pequeño respingo. Aparta la mirada, visiblemente nerviosa."
 
 # game/story.rpy:739
 translate spanish story_fea20a05:
 
     # "Oh god, did I ruin it?"
-    ""
+    "Dios mío, ¿lo he estropeado?"
 
 # game/story.rpy:740
 translate spanish story_3f18b7c3:
 
     # "Of course I did, I can never-{w=0.5}{nw}"
-    ""
+    "Por supuesto que sí, nunca soy capaz de...{w=0.5}{nw}"
 
 # game/story.rpy:742
 translate spanish story_ba7dba9c:
 
     # m "You do?"
-    m ""
+    m "¿De verdad?"
 
 # game/story.rpy:744
 translate spanish story_e42108ab:
 
     # "For a split second, those two words sober us up."
-    ""
+    "Por una fracción de segundo, esas dos palabras nos despejan de golpe."
 
 # game/story.rpy:745
 translate spanish story_3f58903d:
 
     # mc "Y-{w=0.5}Yeah, I do."
-    mc ""
+    mc "S-{w=0.5}Sí, de verdad."
 
 # game/story.rpy:747
 translate spanish story_2cbdc027:
 
     # "Monika doesn't look back at me, however, I can tell she isn't repulsed or disgusted by my question."
-    ""
+    "Monika sigue sin mirarme, pero se nota que mi declaración no le ha dado asco ni repulsión."
 
 # game/story.rpy:749
 translate spanish story_3f255909:
 
     # m "You do know... the circumstances we're in at the moment, right?"
-    m ""
+    m "Eres consciente... de las circunstancias en las que nos encontramos ahora mismo, ¿verdad?"
 
 # game/story.rpy:751
 translate spanish story_96f90f46:
 
     # m "We both had a lot to drink..."
-    m ""
+    m "Los dos hemos bebido mucho..."
 
 # game/story.rpy:753
 translate spanish story_d8a11fd4:
 
     # "The sobering realization hits me like a truck."
-    ""
+    "Ese baño de realidad me golpea como un camión."
 
 # game/story.rpy:754
 translate spanish story_6f3011a3:
 
     # "I can't even bring myself to look at her, until..."
-    ""
+    "Ni siquiera me atrevo a mirarla a la cara, hasta que..."
 
 # game/story.rpy:756
 translate spanish story_de87a206_1:
 
     # m "[player]?"
-    m ""
+    m "¿[player]?"
 
 # game/story.rpy:758
 translate spanish story_e3ed2229:
 
     # "I get snapped back into reality hearing her call my name."
-    ""
+    "Vuelvo a la realidad de sopetón al oír cómo dice mi nombre."
 
 # game/story.rpy:760
 translate spanish story_fc758399:
 
     # "I look up at her, seeing her give me a reassuring smile."
-    ""
+    "Levanto la mirada hacia ella y veo que me dedica una sonrisa tranquilizadora."
 
 # game/story.rpy:762
 translate spanish story_9b261ff2:
 
     # m "[player]..."
-    m ""
+    m "[player]..."
 
 # game/story.rpy:764
 translate spanish story_868fd68a:
 
     # "Is this it? Is she going to say yes?"
-    ""
+    "¿Ya está? ¿Me va a decir que sí?"
 
 # game/story.rpy:766
 translate spanish story_fb1fe80a:
 
     # m "I can't give you an answer yet..."
-    m ""
+    m "Todavía no puedo darte una respuesta..."
 
 # game/story.rpy:767
 translate spanish story_8170c706:
 
     # m "We just met for the first time in years... and we've both been drinking."
-    m ""
+    m "Nos acabamos de reencontrar por primera vez en años... y los dos hemos estado bebiendo."
 
 # game/story.rpy:769
 translate spanish story_41afd201:
 
     # "Her words of truth crush me."
-    ""
+    "La franqueza de sus palabras me hunde."
 
 # game/story.rpy:771
 translate spanish story_9c393d98:
 
     # m "Buttttt..."
-    m ""
+    m "Peeero..."
 
 # game/story.rpy:773
 translate spanish story_b2399232:
 
     # m "We could always meet up again~"
-    m ""
+    m "Siempre podemos volver a quedar."
 
 # game/story.rpy:775
 translate spanish story_a31340dd:
 
     # mc "Really?"
-    mc ""
+    mc "¿En serio?"
 
 # game/story.rpy:777
 translate spanish story_b6598dac:
 
     # m "Of course! I enjoyed spending time with you tonight."
-    m ""
+    m "¡Por supuesto! He disfrutado mucho pasando el rato contigo esta noche."
 
 # game/story.rpy:779
 translate spanish story_d3de4048:
 
     # m "These things take..."
-    m ""
+    m "Estas cosas llevan su..."
 
 # game/story.rpy:781
 translate spanish story_34c04158:
 
     # "She seems to lose her train of thought."
-    ""
+    "Parece que pierde el hilo."
 
 # game/story.rpy:783
 translate spanish story_38fa5992:
 
     # m "Uhm..."
-    m ""
+    m "Mmm..."
 
 # game/story.rpy:785
 translate spanish story_20b30f8b:
 
     # mc "Time?"
-    mc ""
+    mc "¿Tiempo?"
 
 # game/story.rpy:787
 translate spanish story_92f4859c:
 
     # m "Yeah! Gosh, I think the drinks are doing that..."
-    m ""
+    m "¡Eso! Madre mía, creo que es cosa de beber tanto..."
 
 # game/story.rpy:789
 translate spanish story_b72a1ed5:
 
     # m "Ahaha~"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/story.rpy:791
 translate spanish story_3b1edff9:
 
     # mc "Heh..."
-    mc ""
+    mc "Je..."
 
 # game/story.rpy:792
 translate spanish story_7a0fb5fd:
 
     # "I ponder over the words she just said.{w=1.0} I think she's right."
-    ""
+    "Le doy vueltas a lo que acaba de decir.{w=1.0} Tiene razón."
 
 # game/story.rpy:793
 translate spanish story_d00b3c90:
 
     # "I shouldn't rush into this."
-    ""
+    "No debería precipitarme con esto."
 
 # game/story.rpy:795
 translate spanish story_f7a38c8d:
 
     # m "Now, kind gentleman. Would you care to walk this kind lady home?"
-    m ""
+    m "Y ahora, amable caballero. ¿Le importaría acompañar a esta doncella a su humilde hogar?"
 
 # game/story.rpy:797
 translate spanish story_0c50e3ed:
 
     # "The words nearly stun me, but I regain my composure."
-    ""
+    "Sus palabras casi me dejan de piedra, pero recupero la compostura."
 
 # game/story.rpy:798
 translate spanish story_85d475fe_2:
 
     # mc "Of course!"
-    mc ""
+    mc "¡Por supuesto!"
 
 # game/story.rpy:800
 translate spanish story_4371cd6d:
 
     # "These things take time, and I'm ready to accept that."
-    ""
+    "Estas cosas llevan su tiempo y estoy dispuesto a aceptarlo."
 
 # game/story.rpy:801
 translate spanish story_b1d39038:
 
     # "We both walk down the street, with a newfound spring in my step."
-    ""
+    "Ambos caminamos por la calle, noto una energía renovada en cada uno de mis pasos."
 
 translate spanish strings:
 
     # game/story.rpy:204
     old "Hii!!"
-    new ""
+    new "¡Holaaa!"
 
     # game/story.rpy:204
     old "{emoji=raisedeyebrow}"
-    new ""
+    new "{emoji=raisedeyebrow}"
 
     # game/story.rpy:266
     old "Good morning! {emoji=hey}"
-    new ""
+    new "¡Buenos días! {emoji=hey}"
 
     # game/story.rpy:266
     old "I have free time after my lectures to meet up again~"
-    new ""
+    new "Tengo tiempo libre después de las clases para volver a quedar."
 
     # game/story.rpy:266
     old "Are you able to do that?"
-    new ""
+    new "¿Te viene bien?"
 
     # game/story.rpy:266
     old "Yeah!"
-    new ""
+    new "¡Sí!"
 
     # game/story.rpy:266
     old "When I finish work I'd love to hang out!"
-    new ""
+    new "¡Me encantaría quedar cuando salga del trabajo!"
 
     # game/story.rpy:266
     old "Sounds great~"
-    new ""
+    new "Me parece genial."
 
     # game/story.rpy:266
     old "Does 8PM work for you?"
-    new ""
+    new "¿Te va bien a las 20:00?"
 
     # game/story.rpy:266
     old "Hmm. {emoji=think}"
-    new ""
+    new "Mmm. {emoji=think}"
 
     # game/story.rpy:266
     old "I think so, yeah."
-    new ""
+    new "Sí, creo que sí."
 
     # game/story.rpy:266
     old "Meet me at the cafe next to the train station later, okay~?"
-    new ""
+    new "Nos vemos luego en la cafetería que hay al lado de la estación de tren, ¿vale?"
 
     # game/story.rpy:266
     old "Sure!!"
-    new ""
+    new "¡¡Claro!!"
 
     # game/story.rpy:266
     old "See you soon. {emoji=halo}"
-    new ""
+    new "Nos vemos pronto. {emoji=halo}"
 
